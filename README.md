@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanya Sethi, Machine Learning Engineer by Profession
-- 👀 I’m interested in combinining Mathematical concepts with ML algos to build my own innovations
+- 👀 I’m interested in combining Mathematical concepts with ML algos to build my own innovations
 - 📫You can reach me at https://www.linkedin.com/in/tanya-sethi-50076619b
 
 <!---
